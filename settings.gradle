@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "WheelDatePicker"
 include ':app'
+include ':datepicker'
