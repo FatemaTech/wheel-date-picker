@@ -11,8 +11,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import tech.shikho.wheeldatepicker.R;
-
+import tech.shikho.datepicker.R;
 
 public class WheelYearPicker extends WheelPicker<String> {
 

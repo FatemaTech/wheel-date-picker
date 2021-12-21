@@ -32,9 +32,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
-import tech.shikho.wheeldatepicker.R;
-import tech.shikho.wheeldatepicker.datepicker.DateHelper;
-import tech.shikho.wheeldatepicker.datepicker.LocaleHelper;
+import tech.shikho.datepicker.R;
+
 
 public abstract class WheelPicker<V> extends View {
 

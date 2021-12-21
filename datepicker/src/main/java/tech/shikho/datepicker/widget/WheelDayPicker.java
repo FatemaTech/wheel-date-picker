@@ -14,7 +14,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
-import tech.shikho.wheeldatepicker.R;
+import tech.shikho.datepicker.R;
+
 
 public class WheelDayPicker extends WheelPicker<DateWithLabel> {
 

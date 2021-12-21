@@ -2,7 +2,6 @@ package tech.shikho.datepicker.widget;
 
 import java.util.Date;
 
-import tech.shikho.wheeldatepicker.datepicker.DateHelper;
 
 
 public class DateWithLabel {
